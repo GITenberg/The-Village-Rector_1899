@@ -1,5 +1,5 @@
 _repo: The-Village-Rector_1899
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le curé de village. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '661'
     url: http://www.gutenberg.org/2009/agents/661
     wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -25,6 +28,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: 'Translation of: Le curé de village.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1899#The-Village-Rector
 gutenberg_issued: '2005-11-11'
 gutenberg_type: Text
 identifiers:
